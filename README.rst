@@ -1,11 +1,8 @@
-example-cli-python
+Example-cli-python
 ========================
 
 example cli in python package.
 (forked from jgehrcke/python-cmdline-bootstrap)
-
-Usage
------
 
 Installation sets up command
 **************************************

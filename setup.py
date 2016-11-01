@@ -29,5 +29,5 @@ setup(
     long_description = long_descr,
     author = "Oji Setyawan",
     author_email = "ojixzzz@gmail.com",
-    url = "https://ojixzzz.com",
+    url = "https://github.com/ojixzzz/example-cli-python",
     )

@@ -16,6 +16,8 @@ Installation right from the source tree (or via pip from PyPI)::
 
     $ python setup.py install
 
+    $ pip install example-cli-python
+
 Now, the ``hello`` command is available::
 
     $ hello ojixzzz
